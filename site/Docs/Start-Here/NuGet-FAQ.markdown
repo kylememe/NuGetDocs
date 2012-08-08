@@ -37,7 +37,7 @@ Typically, a solution-level package installs new commands that can be called fro
 
 ## I have multiple versions of my library that target different versions of the .NET Framework. How do I build a single package that supports this?
 
-See the section titled "Supporting Multiple .NET Framework Versions and Profiles" in [Creating a Package](http://nuget.codeplex.com/wikipage?title=Creating a Package#supporting-multiple-framework-versions).
+See the section titled "Supporting Multiple .NET Framework Versions and Profiles" in [Creating a Package](http://nuget.codeplex.com/wikipage?title=Creating%20a%20Package#supporting-multiple-framework-versions).
 
 ## How do I check the exact version of NuGet installed?
 
